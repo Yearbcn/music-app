@@ -114,13 +114,7 @@ export const songsList = [
     url: require('../audios/Dites1.mp3'),
     id: '13',
   },
-  {
-    title: 'Medistoris',
-    artist: 'Aplicació',
-    artwork: require('../images/welcome.webp'),
-    url: require('../audios/welcome.mp3'),
-    id: '14',
-  },
+  
 ];
 
 export const sliderSongs = [
@@ -128,7 +122,7 @@ export const sliderSongs = [
   //   title: 'Manresa el misteri de la llum',
   //   artist: 'Alba Subirà Fernández',
   //   artwork: require('../images/Manresa_foto.jpg'),
-  //   url: require('../audios/Manresa.mp3'),
+  //   url: require('../audios/newManresa.mp3'),
   //   id: '7',
   // },
 
