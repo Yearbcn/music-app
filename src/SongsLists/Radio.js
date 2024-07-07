@@ -3,7 +3,7 @@ export const radio = [
     title: 'Radio Medistoris',
     artist: 'Medistoris',
     artwork: require('../images/Dite2_foto.webp'),
-    url: require('../audios/Radio_Medistoris.mp3'),
+    url: require('../audios/Dites2.mp3'),
     id: '1',
   }
 ];

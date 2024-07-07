@@ -4,7 +4,7 @@ export const songsList = [
     artist: 'Pilar Pelegri Terrado',
   //  flag: '333',
     artwork: require('../images/foto-Trementinaire.webp'),
-    url: require('../audios/Les_Trementinaires.mp3'),
+    url: require('../audios/newTrementinaires_catalan.mp3'),
     id: '1',
   },
   {
@@ -12,7 +12,7 @@ export const songsList = [
     artist: 'Pilar Pelegri Terrado',
   //  flag: '777',
     artwork: require('../images/foto-Trementinaire.webp'),
-    url: require('../audios/Cast_LesTrementinaires.mp3'),
+    url: require('../audios/newtrem_castTrementinaires.mp3'),
     id: '2',
   },
   {
@@ -20,7 +20,7 @@ export const songsList = [
     artist: 'Medistoris',
    // flag: '333',
     artwork: require('../images/Mataro_foto.webp'),
-    url: require('../audios/TrenMataro.mp3'),
+    url: require('../audios/newTren_CAT.mp3'),
     id: '3',
   },
   {
@@ -28,7 +28,7 @@ export const songsList = [
     artist: 'Medistoris',
    // flag: '777',
     artwork: require('../images/Mataro_foto.webp'),
-    url: require('../audios/Cast_TrenMataro.mp3'),
+    url: require('../audios/newtren_cast_tren.mp3'),
     id: '4',
   },
   {
@@ -36,7 +36,7 @@ export const songsList = [
     artist: 'Medistoris',
    // flag: '333',
     artwork: require('../images/timbaler4.webp'),
-    url: require('../audios/Timbaler.mp3'),
+    url: require('../audios/newTimbaler_catalan.mp3'),
     id: '5',
   },
   {
@@ -44,7 +44,7 @@ export const songsList = [
     artist: 'Medistoris',
    // flag: '777',
     artwork: require('../images/timbaler4.webp'),
-    url: require('../audios/Cast_LeyendaTimbaler.mp3'),
+    url: require('../audios/newtim_castTimbaler.mp3'),
     id: '6',
   },
   {
@@ -52,7 +52,7 @@ export const songsList = [
     artist: 'Alba Subirà Fernández',
    // flag: '333',
     artwork: require('../images/Manresa_foto_new.webp'),
-    url: require('../audios/Manresa.mp3'),
+    url: require('../audios/newManresa.mp3'),
     id: '7',
   },
   {
@@ -60,7 +60,7 @@ export const songsList = [
     artist: 'Octavi Pujades',
    // flag: '333',
     artwork: require('../images/jordi_new.webp'),
-   url: require('../audios/new111.mp3'),
+   url: require('../audios/newSant Jordi_ Catala.mp3'),
     id: '16',
   },
 
@@ -69,7 +69,7 @@ export const songsList = [
     artist: 'Octavi Pujades',
    // flag: '777',
     artwork: require('../images/222.webp'),
-    url: require('../audios/222.mp3'),
+    url: require('../audios/newSan_cast_Sant Jordi.mp3'),
     id: '17',
   },
   {
@@ -144,14 +144,14 @@ export const sliderSongs = [
     artist: 'KPimarketing.es',
     flag: '333',
     artwork: require('../images/Mataro_foto.webp'),
-    url: require('../audios/TrenMataro.mp3'),
+    url: require('../audios/newtren_cast_tren.mp3'),
     id: '3',
   },
   {
     title: 'Medistoris',
     artist: 'Aplicació',
     artwork: require('../images/welcome.webp'),
-    url: require('../audios/welcome.mp3'),
+    url: require('../audios/Cant_dels_ocells.mp3'),
     id: '14',
   },
 ];
