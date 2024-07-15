@@ -164,7 +164,7 @@ const Main = ({ navigation }) => {
           >
             <View style={[styles.imageContainer, styles.shadowProp]}>
               <Image
-                source={require("../../src/images/cancons2.jpg")}
+                source={require("../../src/images/canconss.jpg")}
                 style={styles.image}
               />
             </View>
