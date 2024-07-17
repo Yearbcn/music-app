@@ -75,21 +75,21 @@ export const songsList = [
   {
     title: "El Cant dels ocells",
     artist: "Flàvia Camacho Martínez",
-    artwork: require("../images/CantdelsOcells.webp"),
+    artwork: require("../images/ocells.webp"),
     url: require("../audios/Cant_dels_ocells.mp3"),
     id: "8",
   },
   {
     title: "El noi de la mare",
     artist: "Cristina Ferrero Celaya",
-    artwork: require("../images/Noidelamare.webp"),
+    artwork: require("../images/Noide.webp"),
     url: require("../audios/El_noi_de_la_mare.mp3"),
     id: "9",
   },
   {
     title: "La lluna la pruna",
     artist: "Cristina Ferrero Celaya",
-    artwork: require("../images/Lallunalapruna.jpeg"),
+    artwork: require("../images/Lallunalapruna.webp"),
     url: require("../audios/La_lluna_la_pruna.mp3"),
     id: "10",
   },
@@ -128,7 +128,7 @@ export const sliderSongs = [
   {
     title: "El Cant dels ocells",
     artist: "Flàvia Camacho Martínez",
-    artwork: require("../images/CantdelsOcells.webp"),
+    artwork: require("../images/ocells.webp"),
     url: require("../audios/Cant_dels_ocells.mp3"),
     id: "8",
   },
@@ -143,7 +143,7 @@ export const sliderSongs = [
   {
     title: "Medistoris",
     artist: "Aplicació",
-    artwork: require("../images/welcome.webp"),
+    artwork: require("../images/ocells.webp"),
     url: require("../audios/Cant_dels_ocells.mp3"),
     id: "14",
   },
