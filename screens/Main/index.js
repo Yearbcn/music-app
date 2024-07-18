@@ -164,7 +164,7 @@ const Main = ({ navigation }) => {
           >
             <View style={[styles.imageContainer, styles.shadowProp]}>
               <Image
-                source={require("../../src/images/ocells.webq")}
+                source={require("../../src/images/ocells.webp")}
                 style={styles.image}
               />
             </View>
