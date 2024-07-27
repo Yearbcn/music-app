@@ -5,7 +5,7 @@ export const songsList = [
     artist: "Pilar Pelegri Terrado",
     //  flag: '333',
     artwork: require("../images/foto-Trementinaire.webp"),
-    url: require("../audios/newTrementinaires_catalan.mp3"),
+    url: require("../audios/newTrementinaires_catalan1.mp3"),
     id: "7",
   },
 
@@ -15,7 +15,7 @@ export const songsList = [
     artist: "Pilar Pelegri Terrado",
     //  flag: '777',
     artwork: require("../images/foto-Trementinaire.webp"),
-    url: require("../audios/newtrem_castTrementinaires.mp3"),
+    url: require("../audios/newtrem_castTrementinaires1.mp3"),
     id: "8",
   },
 

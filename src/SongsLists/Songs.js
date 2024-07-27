@@ -52,7 +52,7 @@ export const songsList = [
     artist: "Alba Subirà Fernández",
     // flag: '333',
     artwork: require("../images/Manresa_foto_new.webp"),
-    url: require("../audios/newManresa1.mp3"),
+    url: require("../audios/newManresa1mp3.mp3"),
     id: "7",
   },
   {
