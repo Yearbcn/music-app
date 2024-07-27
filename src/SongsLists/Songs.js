@@ -36,7 +36,7 @@ export const songsList = [
     artist: "Medistoris",
     // flag: '333',
     artwork: require("../images/timbaler4.webp"),
-    url: require("../audios/newTimbaler_catalan1.mp3"),
+    url: require("../audios/newTimbaler_catalan2.mp3"),
     id: "5",
   },
   {
@@ -52,7 +52,7 @@ export const songsList = [
     artist: "Alba Subirà Fernández",
     // flag: '333',
     artwork: require("../images/Manresa_foto_new.webp"),
-    url: require("../audios/newManresa1mp3.mp3"),
+    url: require("../audios/newManresa1.mp3"),
     id: "7",
   },
   {
