@@ -4,7 +4,7 @@ export const songsList = [
     artist: "Medistoris",
     //flag: '333',
     artwork: require("../images/timbaler4.webp"),
-    url: require("../audios/newTimbaler_catalan2.mp3"),
+    url: require("../audios/Timbaler_catalan.mp3"),
     id: "11",
   },
 
