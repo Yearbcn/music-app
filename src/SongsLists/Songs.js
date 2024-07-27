@@ -4,7 +4,7 @@ export const songsList = [
     artist: "Pilar Pelegri Terrado",
     //  flag: '333',
     artwork: require("../images/foto-Trementinaire.webp"),
-    url: require("../audios/newTrementinaires_catalan.mp3"),
+    url: require("../audios/newTrementinaires_catalan1.mp3"),
     id: "1",
   },
   {
@@ -12,7 +12,7 @@ export const songsList = [
     artist: "Pilar Pelegri Terrado",
     //  flag: '777',
     artwork: require("../images/foto-Trementinaire.webp"),
-    url: require("../audios/newtrem_castTrementinaires.mp3"),
+    url: require("../audios/newtrem_castTrementinaires1.mp3"),
     id: "2",
   },
   {
@@ -36,7 +36,7 @@ export const songsList = [
     artist: "Medistoris",
     // flag: '333',
     artwork: require("../images/timbaler4.webp"),
-    url: require("../audios/newTimbaler_catalan.mp3"),
+    url: require("../audios/newTimbaler_catalan1.mp3"),
     id: "5",
   },
   {
@@ -44,7 +44,7 @@ export const songsList = [
     artist: "Medistoris",
     // flag: '777',
     artwork: require("../images/timbaler4.webp"),
-    url: require("../audios/newtim_castTimbaler.mp3"),
+    url: require("../audios/newtim_castTimbaler1.mp3"),
     id: "6",
   },
   {
@@ -52,7 +52,7 @@ export const songsList = [
     artist: "Alba Subirà Fernández",
     // flag: '333',
     artwork: require("../images/Manresa_foto_new.webp"),
-    url: require("../audios/newManresa.mp3"),
+    url: require("../audios/newManresa1.mp3"),
     id: "7",
   },
   {
