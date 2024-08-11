@@ -5,7 +5,7 @@ export const songsList = [
     artist: "Pilar Pelegri Terrado",
     //  flag: '333',
     artwork: require("../images/foto-Trementinaire.webp"),
-    url: require("../audios/newTrementinaires_catalan1.mp3"),
+    url: require("../audios/newTrementinaires_catalan1.wav"),
     id: "7",
   },
 
@@ -15,7 +15,7 @@ export const songsList = [
     artist: "Pilar Pelegri Terrado",
     //  flag: '777',
     artwork: require("../images/foto-Trementinaire.webp"),
-    url: require("../audios/newtrem_castTrementinaires1.mp3"),
+    url: require("../audios/newtrem_castTrementinaires1.wav"),
     id: "8",
   },
 
@@ -25,7 +25,7 @@ export const songsList = [
     artist: "Medistoris",
     //  flag: '333',
     artwork: require("../images/Mataro_foto.webp"),
-    url: require("../audios/newTren_CAT.mp3"),
+    url: require("../audios/newTren_CAT.wav"),
     id: "9",
   },
 
@@ -35,7 +35,7 @@ export const songsList = [
     artist: "Medistoris",
     // flag: '777',
     artwork: require("../images/Mataro_foto.webp"),
-    url: require("../audios/newtren_cast_tren.mp3"),
+    url: require("../audios/newtren_cast_tren.wav"),
     id: "10",
   },
 ];
