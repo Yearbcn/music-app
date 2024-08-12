@@ -4,7 +4,7 @@ export const songsList = [
     artist: "Pilar Pelegri Terrado",
     //  flag: '333',
     artwork: require("../images/foto-Trementinaire.webp"),
-    url: require("../audios/newTrementinaires_catalan1.wav"),
+    url: require("../audios/Catalan_Trementinaires.mp3"),
     id: "1",
   },
   {
@@ -12,7 +12,7 @@ export const songsList = [
     artist: "Pilar Pelegri Terrado",
     //  flag: '777',
     artwork: require("../images/foto-Trementinaire.webp"),
-    url: require("../audios/newtrem_castTrementinaires1.wav"),
+    url: require("../audios/cast_Trementinaires.mp3"),
     id: "2",
   },
   {
@@ -20,7 +20,7 @@ export const songsList = [
     artist: "Medistoris",
     // flag: '333',
     artwork: require("../images/Mataro_foto.webp"),
-    url: require("../audios/newTren_CAT.wav"),
+    url: require("../audios/tren_catalan.mp3"),
     id: "3",
   },
   {
@@ -28,7 +28,7 @@ export const songsList = [
     artist: "Medistoris",
     // flag: '777',
     artwork: require("../images/Mataro_foto.webp"),
-    url: require("../audios/newtren_cast_tren.wav"),
+    url: require("../audios/tren_cast.mp3"),
     id: "4",
   },
   {
@@ -36,7 +36,7 @@ export const songsList = [
     artist: "Medistoris",
     // flag: '333',
     artwork: require("../images/timbaler4.webp"),
-    url: require("../audios/Timbaler_catalan.wav"),
+    url: require("../audios/Catalan_Timbaler.mp3"),
     id: "5",
   },
   {
@@ -44,7 +44,7 @@ export const songsList = [
     artist: "Medistoris",
     // flag: '777',
     artwork: require("../images/timbaler4.webp"),
-    url: require("../audios/newtim_castTimbaler1.wav"),
+    url: require("../audios/Cast_Timbaler.mp3"),
     id: "6",
   },
   {
@@ -52,7 +52,7 @@ export const songsList = [
     artist: "Alba Subirà Fernández",
     // flag: '333',
     artwork: require("../images/Manresa_foto_new.webp"),
-    url: require("../audios/newManresa1.wav"),
+    url: require("../audios/Manresa.mp3"),
     id: "7",
   },
   {
@@ -60,7 +60,7 @@ export const songsList = [
     artist: "Octavi Pujades",
     // flag: '333',
     artwork: require("../images/jordi_new.webp"),
-    url: require("../audios/newSant_Jordi_Catala.wav"),
+    url: require("../audios/SantJordi_cat.mp3"),
     id: "16",
   },
 
@@ -69,7 +69,7 @@ export const songsList = [
     artist: "Octavi Pujades",
     // flag: '777',
     artwork: require("../images/222.webp"),
-    url: require("../audios/newSan_cast_Sant_Jordi.wav"),
+    url: require("../audios/newSanjordi_cast.mp3"),
     id: "17",
   },
   {

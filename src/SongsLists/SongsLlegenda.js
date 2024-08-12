@@ -4,7 +4,7 @@ export const songsList = [
     artist: "Medistoris",
     //flag: '333',
     artwork: require("../images/timbaler4.webp"),
-    url: require("../audios/Timbaler_catalan.wav"),
+    url: require("../audios/Catalan_Timbaler.mp3"),
     id: "11",
   },
 
@@ -13,7 +13,7 @@ export const songsList = [
     artist: "Medistoris",
     // flag: '777',
     artwork: require("../images/timbaler4.webp"),
-    url: require("../audios/newtim_castTimbaler1.wav"),
+    url: require("../audios/Cast_Timbaler.mp3"),
     id: "12",
   },
 
@@ -22,7 +22,7 @@ export const songsList = [
     artist: "Alba Subirà Fernández",
     // flag: '333',
     artwork: require("../images/Manresa_foto_new.webp"),
-    url: require("../audios/newManresa1.wav"),
+    url: require("../audios/Manresa.mp3"),
     id: "13",
   },
 
@@ -31,7 +31,7 @@ export const songsList = [
     artist: "Octavi Pujades",
     //  flag: '333',
     artwork: require("../images/jordi_new.webp"),
-    url: require("../audios/newSant_Jordi_Catala.wav"),
+    url: require("../audios/SantJordi_cat.mp3"),
     id: "14",
   },
 
@@ -40,7 +40,7 @@ export const songsList = [
     artist: "Octavi Pujades",
     //  flag: '777',
     artwork: require("../images/222.webp"),
-    url: require("../audios/newSan_cast_Sant_Jordi.wav"),
+    url: require("../audios/newSanjordi_cast.mp3"),
     id: "15",
   },
 ];
