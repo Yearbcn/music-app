@@ -137,7 +137,7 @@ export const sliderSongs = [
     artist: "KPimarketing.es",
     flag: "333",
     artwork: require("../images/Mataro_foto.webp"),
-    url: require("../audios/newtren_cast_tren.wav"),
+    url: require("../audios/tren_cast.mp3"),
     id: "3",
   },
   {
